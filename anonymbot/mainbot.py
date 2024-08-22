@@ -13,7 +13,7 @@ from django.conf import settings
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'anonymbot.settings')
 django.setup()
 
-API_TOKEN = '7483145191:AAHA7VuGY0B1BO2LPpuSSUjdUOn-8kuA7xg'
+API_TOKEN = 'YOUR_TOKEN'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
